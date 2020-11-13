@@ -1,0 +1,25 @@
+.carousel-item{
+    text-align: center !important;
+}
+
+ .carousel-item{
+    text-align: center !important;
+    margin-top: -8px;
+    height: 250px !important;
+}
+ .carousel-item img{
+width: 150px !important;
+text-align: center;
+} 
+.carousel-indicators{
+    top: 195px !important;
+}
+.carousel-indicators li{
+    background-color: Black !important;
+} 
+
+.carousel-caption {
+    color: black !important;
+    display: block !important;
+    /* top: 77% !important; */
+}

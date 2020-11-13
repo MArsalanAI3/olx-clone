@@ -1,0 +1,62 @@
+.logo {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+
+.location input {
+  background-color: #fff;
+  border: 2px #002f34 solid;
+  border-radius: 5px;
+}
+
+.location .ico {
+  padding: 10px;
+  height: 100% !important;
+  background-color: #000 !important;
+  color: #fff;
+  border: none;
+  outline: inherit;
+}
+.search input {
+  width: 100px;
+  background-color: #fff;
+  border: 2px #002f34 solid;
+  border-radius: 5px;
+}
+
+.search .ico {
+  padding: 10px;
+  height: 100% !important;
+  background-color: #000 !important;
+  color: #fff;
+  border: none;
+  outline: inherit;
+}
+
+.sell {
+  padding: 8px 20px;
+  border: 3px #ffa500 solid;
+  color: #002f34;
+  text-align: center;
+  background: #fff;
+  border-radius: 30px;
+  box-shadow: 0px 3px 5px #a9a9a9;
+}
+
+.login {
+  padding-right:10px;
+  text-decoration: underline;
+  font-size: 18px;
+  font-weight: bold;
+}
+.flex-1{
+  flex: 1;
+}
+.flex-2{
+  flex: 2;
+}

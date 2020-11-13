@@ -1,0 +1,12 @@
+.CardImg{
+    height: 250px !important;
+}
+.card{
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+}
+
+.row div{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
